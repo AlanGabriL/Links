@@ -2,4 +2,4 @@
 
 * https://igluonline.com/melhores-bibliotecas-javascript-e-css/
 
-* https://fortawesome.com/
+* https://fontawesome.com/icons

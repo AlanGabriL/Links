@@ -12,4 +12,4 @@
 
 * [Ler livros de Graça](https://books.google.com.br/?hl=pt-BR)
 
-*[Readme.md personalizado](https://www.dio.me/articles/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github)
+* [Readme.md personalizado](https://www.dio.me/articles/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github)
